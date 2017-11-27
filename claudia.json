@@ -1,0 +1,7 @@
+{
+  "lambda": {
+    "role": "ze-botinho-executor",
+    "name": "ze-botinho",
+    "region": "us-east-1"
+  }
+}
